@@ -5,7 +5,7 @@
 ### Jeg kender jo egentlig ikke dit niveau, jeg hører far siger du programmere lidt i skolen, men holder niveau lavt nede og så kan du jo en anden gang kontakte mig, om du ønsker mere.
 ### Der kommer også til at være lidt PowerPoint til at lære om emnerne.
 
-![Java Logo](./resources/Java-logo.png)
+![Java Logo](./resources/Java-Logo.png)
 
 ## Struktur
 ### Herunder ses en lille struktur over hvad der bliver gået igennem og hvilken rækkefølge:
