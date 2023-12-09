@@ -4,13 +4,14 @@
 ### Gennem forløbet bliver der både stilt nogle opgaver jeg videoer med mig der har løsningen, det skal jo være sjovt. Lav gerne opgaven før du ser løsningen, det er typisk smartest.
 ### Jeg kender jo egentlig ikke dit niveau, jeg hører far siger du programmere lidt i skolen, men holder niveau lavt nede og så kan du jo en anden gang kontakte mig, om du ønsker mere.
 ### Der kommer også til at være lidt PowerPoint til at lære om emnerne.
+### Opgavebeskrivelserne bliver beskrevet som noget der hedder README.md filer, det er scriptse der repræsenterer tekster på en vis måde på platforme såsom [GitHub](https://github.com/Laustrup/Elias), så bare læs dem ud fra hver mappe de står under.
 
 ![Java Logo](./resources/Java-Logo.png)
 
 ## Struktur
 ### Herunder ses en lille struktur over hvad der bliver gået igennem og hvilken rækkefølge:
 
-* ## [Introduktion](https://github.com/Laustrup/Elias/1-Introduktion)
+## [Introduktion](https://github.com/Laustrup/Elias/1-Introduktion)
 
   Som titlen nok beskriver, så bliver der her beskrevet lidt Java, men ligeså også programmering generelt.
   
@@ -29,7 +30,7 @@
       * Loops
       * OOP (ObjektOrienteret Programmering)
 
-* ## [Opgaver](https://github.com/Laustrup/Elias/2-Opgaver)
+## [Opgaver](https://github.com/Laustrup/Elias/2-Opgaver)
 
   Dette kapitel kommer til at indeholde lidt simple opgaver, taget ud fra det der er gennemgået i introduktionskapitlet.
   
@@ -43,25 +44,26 @@
   * ### [Tøjbutik](https://github.com/Laustrup/Elias/2-Opgaver/Tøjbutik)
     For at få lidt bedre forståelse af objektorienteret programmering, så er denne opgave også med til at blive leget med.
 
-* ## [Ekstra opgaver](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver)
+## [Ekstra opgaver](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver)
 
   I det tilfælde du skulle få interesse i lidt flere og sjovere opgaver, så ville de være her.
 
   Først ville der være nogle en lille introduktion til nogle af de ekstra elementer der ville blive brugt, hvilket ville være:
 
-    * DateTime
-    * Random
+  * DateTime
+  * Collections
+  * Random
   
   Selve opgaverne bliver:
 
-    * ### [Pizzabod](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver/Pizzabod)
+  * ### [Pizzabod](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver/Pizzabod)
       Uden det store brug af de nye emner fra denne sektion, men noget mere kompleks end forrige sektion af opgaver.
       Praktisk talt skal det være et system til at kunne håndtere køb af pizza fra et pizzaudvalg.
 
-    * ### [DSB](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver)
+  * ### [DSB](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver)
       Ligesom forrige opgave skal der her laves et lignende system, her dog til at håndtere togbilletter, som kan have nogle andre behov.
 
-    * ### [Lotteri](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver/Lotteri)
+  * ### [Lotteri](https://github.com/Laustrup/Elias/3-Ekstra_Opgaver/Lotteri)
       Hvem ville ikke vinde lotteriet? Men hvor svært er det? Her bliver der skabt en lille simulation til at se hvor længe det ville tage at vinde og om ville have tjent på det ud fra udgifterne på sedlerne.
 
 
