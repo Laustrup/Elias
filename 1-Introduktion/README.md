@@ -16,3 +16,5 @@
       * Scanner
       * Loops
       * OOP (ObjektOrienteret Programmering)
+
+### Click [Her](https://drive.google.com/drive/folders/1AKdEtxWGfNdtxEN3iLPGDyCoDPQWUbMb?usp=sharing) for at hente JDK (Java Development Kit).
