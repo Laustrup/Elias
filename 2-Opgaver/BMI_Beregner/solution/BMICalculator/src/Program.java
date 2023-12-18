@@ -48,9 +48,4 @@ public class Program {
 			System.exit(0);
 		}
 	}
-	
-/*
-	
-	Hvis der indtastes forkert, hvad skal terminalen så sige?
-*/
 }

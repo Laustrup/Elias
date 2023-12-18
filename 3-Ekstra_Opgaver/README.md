@@ -1,6 +1,6 @@
 # Ekstra opgaver
 
-  I det tilfælde du skulle få interesse i lidt flere og sjovere opgaver, så ville de være her.
+  I det tilfælde du skulle få interesse i lidt flere og sjovere opgaver, så ville de være her. De er ikke lavet pt., kontakt mig gerne hvis du får lyst til at se nogle eksempler for at få dem lavet, men se gerne først powerpointshowet.
 
   Først ville der være nogle en lille introduktion til nogle af de ekstra elementer der ville blive brugt, hvilket ville være:
 
